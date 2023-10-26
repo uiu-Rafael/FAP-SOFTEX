@@ -41,4 +41,3 @@ console.log("Saldo atual: R$" + Banco.buscarSaldo())
 console.log(Banco.deposito(500))
 console.log(Banco.saque(200))
 console.log("Número da conta: " + Banco.numeroDaConta())
-  
