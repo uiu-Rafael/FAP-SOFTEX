@@ -1,0 +1,24 @@
+.container {
+  margin: 0;
+  padding: 0;
+  border: 5px solid red;
+  display: flex;
+  align-items: center;
+}
+
+.img-usuar {
+  border-radius: 150px;
+  border: 5px solid #d543b4;
+  height: 150px;
+}
+span.local-usuar {
+  padding-left: 10px;
+  opacity: 0.5;
+}
+
+.usuar-infor {
+  margin: 0 0 2rem 2rem;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
